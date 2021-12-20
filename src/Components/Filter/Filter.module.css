@@ -1,0 +1,13 @@
+.filter .title {
+  margin-bottom: 10px;
+}
+
+.selectOption {
+  padding: 8px 12px;
+  user-select: none;
+}
+
+.selectOption:hover,
+.selectOptionSelected {
+  background-color: #DEEBFF;
+}

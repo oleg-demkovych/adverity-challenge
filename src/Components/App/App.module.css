@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+}
+
+.sidebar {
+  background: #2589a72e;
+  padding: 20px;
+  width: 350px;
+}
+
+.sidebar .sidebarTitle {
+  margin-top: 0;
+  font-weight: normal;
+}
+
